@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <StartupObject>Problem1_Array.Problem1</StartupObject>
+  </PropertyGroup>
+
+</Project>
+
+
+    <!-- Problem1_Array.Problem1 Problem2_Dictionary.Problem2 Problem3_Queue.Problem3 Problem4_Stack.Problem4
